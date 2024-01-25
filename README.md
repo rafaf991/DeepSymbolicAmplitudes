@@ -1,4 +1,4 @@
-DeepSymbolicAmplitudes is a Machine Learning project where, given a Feynman diagram (in QED) the computer learns to perdict (accurately up to 98%) the amplitude square.
+### DeepSymbolicAmplitudes is a Machine Learning project where, given a Feynman diagram (in QED) the computer learns to perdict (accurately up to 98%) the amplitude square.
 
 This project is based on the SYMBA implementation based on state-of-the-art deep symbolic regression thecniques using transformers architecture. The implementation here is mainly due to the original paper "Attention is All you Need" by Google research group.
 
