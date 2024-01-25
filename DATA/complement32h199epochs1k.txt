@@ -1,0 +1,1024 @@
+Insertion tests with chunks of phrases
+# of miss insertions (chunks):  21
+# of variables in expresion:  68.5
+length of expression:  274
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions (chunks):  16
+# of variables in expresion:  68.0
+length of expression:  272
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions (chunks):  6
+# of variables in expresion:  79.75
+length of expression:  319
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions (chunks):  27
+# of variables in expresion:  75.0
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions (chunks):  17
+# of variables in expresion:  77.0
+length of expression:  308
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions (chunks):  31
+# of variables in expresion:  99.0
+length of expression:  396
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--------------------------------------------------------------------------------------
+Insertion tests with average expresions
+# of miss insertions variables:  76
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  274
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  100
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  272
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  18
+# of variables in expresion:  79
+Accurancy of prediction  76.18 %
+length of expression:  319
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  78
+# of variables in expresion:  75
+Accurancy of prediction 0%
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  106
+# of variables in expresion:  77
+Accurancy of prediction 0%
+length of expression:  308
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  146
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  396
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  83
+# of variables in expresion:  65
+Accurancy of prediction 0%
+length of expression:  261
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  99
+# of variables in expresion:  44
+Accurancy of prediction 0%
+length of expression:  178
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  112
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  331
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  93
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  274
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  113
+# of variables in expresion:  80
+Accurancy of prediction 0%
+length of expression:  323
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  124
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  393
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  165
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  396
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  70
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  189
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  94
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  278
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  119
+# of variables in expresion:  71
+Accurancy of prediction 0%
+length of expression:  284
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  98
+# of variables in expresion:  75
+Accurancy of prediction 0%
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  114
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  277
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  139
+# of variables in expresion:  83
+Accurancy of prediction 0%
+length of expression:  333
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  116
+# of variables in expresion:  75
+Accurancy of prediction 0%
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  84
+# of variables in expresion:  66
+Accurancy of prediction 0%
+length of expression:  266
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  4
+# of variables in expresion:  48
+Accurancy of prediction  89.64 %
+length of expression:  193
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  79
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  191
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  116
+# of variables in expresion:  71
+Accurancy of prediction 0%
+length of expression:  284
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  142
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  324
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  107
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  276
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  135
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  132
+# of variables in expresion:  96
+Accurancy of prediction 0%
+length of expression:  387
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  147
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  49
+# of variables in expresion:  48
+Accurancy of prediction 0%
+length of expression:  195
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  151
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  390
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  58
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  101
+# of variables in expresion:  80
+Accurancy of prediction 0%
+length of expression:  322
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  169
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  83
+# of variables in expresion:  70
+Accurancy of prediction 0%
+length of expression:  281
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  106
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  326
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  135
+# of variables in expresion:  96
+Accurancy of prediction 0%
+length of expression:  386
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  58
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  98
+# of variables in expresion:  77
+Accurancy of prediction 0%
+length of expression:  308
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  143
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  393
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  6
+# of variables in expresion:  46
+Accurancy of prediction  84.95 %
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  17
+# of variables in expresion:  81
+Accurancy of prediction  77.91 %
+length of expression:  326
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  113
+# of variables in expresion:  49
+Accurancy of prediction 0%
+length of expression:  197
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  42
+# of variables in expresion:  44
+Accurancy of prediction  3.91 %
+length of expression:  179
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  159
+# of variables in expresion:  94
+Accurancy of prediction 0%
+length of expression:  377
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  130
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  276
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  136
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  99
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  277
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  103
+# of variables in expresion:  79
+Accurancy of prediction 0%
+length of expression:  319
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  136
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  146
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  389
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  86
+# of variables in expresion:  66
+Accurancy of prediction 0%
+length of expression:  264
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  124
+# of variables in expresion:  100
+Accurancy of prediction 0%
+length of expression:  401
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  75
+Accurancy of prediction  98.67 %
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  96
+# of variables in expresion:  56
+Accurancy of prediction 0%
+length of expression:  225
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  154
+# of variables in expresion:  61
+Accurancy of prediction 0%
+length of expression:  244
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  170
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  390
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  118
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  131
+# of variables in expresion:  70
+Accurancy of prediction 0%
+length of expression:  281
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  22
+# of variables in expresion:  46
+Accurancy of prediction  50.80 %
+length of expression:  187
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  62
+# of variables in expresion:  97
+Accurancy of prediction  35.38 %
+length of expression:  390
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  141
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  389
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  118
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  131
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  277
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  144
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  395
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  111
+# of variables in expresion:  60
+Accurancy of prediction 0%
+length of expression:  243
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  111
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  276
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  59
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  187
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  135
+# of variables in expresion:  71
+Accurancy of prediction 0%
+length of expression:  286
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  53
+# of variables in expresion:  49
+Accurancy of prediction 0%
+length of expression:  197
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  47
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  181
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  4
+# of variables in expresion:  82
+Accurancy of prediction  93.96 %
+length of expression:  331
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  166
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  393
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  130
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  94
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  102
+# of variables in expresion:  70
+Accurancy of prediction 0%
+length of expression:  280
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  144
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  397
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  38
+# of variables in expresion:  46
+Accurancy of prediction  16.13 %
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  108
+# of variables in expresion:  80
+Accurancy of prediction 0%
+length of expression:  322
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  118
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  189
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  143
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  394
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  106
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  278
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  121
+# of variables in expresion:  77
+Accurancy of prediction 0%
+length of expression:  310
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  154
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  394
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  46
+Accurancy of prediction  97.86 %
+length of expression:  187
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  128
+# of variables in expresion:  91
+Accurancy of prediction 0%
+length of expression:  366
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  49
+# of variables in expresion:  94
+Accurancy of prediction  46.95 %
+length of expression:  377
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  46
+Accurancy of prediction  97.86 %
+length of expression:  187
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  132
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  278
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  131
+# of variables in expresion:  95
+Accurancy of prediction 0%
+length of expression:  383
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  113
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  326
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  143
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  388
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  122
+# of variables in expresion:  78
+Accurancy of prediction 0%
+length of expression:  314
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  118
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  47
+Accurancy of prediction  97.88 %
+length of expression:  189
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  81
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  273
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  56
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  149
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  396
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  137
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  392
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  46
+Accurancy of prediction  97.86 %
+length of expression:  187
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  55
+Accurancy of prediction  98.19 %
+length of expression:  221
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  145
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  393
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  82
+# of variables in expresion:  66
+Accurancy of prediction 0%
+length of expression:  267
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  139
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  389
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  128
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  331
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  107
+# of variables in expresion:  74
+Accurancy of prediction 0%
+length of expression:  296
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  75
+# of variables in expresion:  67
+Accurancy of prediction 0%
+length of expression:  269
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  62
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  181
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  135
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  126
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  330
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  104
+# of variables in expresion:  48
+Accurancy of prediction 0%
+length of expression:  195
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  171
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  273
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  172
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  60
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  190
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  69
+# of variables in expresion:  53
+Accurancy of prediction 0%
+length of expression:  213
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  106
+# of variables in expresion:  48
+Accurancy of prediction 0%
+length of expression:  192
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  96
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  275
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  113
+# of variables in expresion:  83
+Accurancy of prediction 0%
+length of expression:  334
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  44
+# of variables in expresion:  45
+Accurancy of prediction  0.00 %
+length of expression:  180
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  87
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  61
+# of variables in expresion:  96
+Accurancy of prediction  35.92 %
+length of expression:  387
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  12
+# of variables in expresion:  46
+Accurancy of prediction  72.04 %
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  97
+# of variables in expresion:  79
+Accurancy of prediction 0%
+length of expression:  316
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  114
+# of variables in expresion:  83
+Accurancy of prediction 0%
+length of expression:  335
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  60
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  182
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  141
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  392
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  81
+Accurancy of prediction  98.78 %
+length of expression:  327
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  103
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  275
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  96
+# of variables in expresion:  70
+Accurancy of prediction 0%
+length of expression:  282
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  172
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  393
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  57
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  120
+# of variables in expresion:  83
+Accurancy of prediction 0%
+length of expression:  335
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  134
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  100
+# of variables in expresion:  79
+Accurancy of prediction 0%
+length of expression:  318
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  142
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  327
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  147
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  395
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  139
+# of variables in expresion:  96
+Accurancy of prediction 0%
+length of expression:  385
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  116
+# of variables in expresion:  49
+Accurancy of prediction 0%
+length of expression:  198
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  76
+# of variables in expresion:  74
+Accurancy of prediction 0%
+length of expression:  296
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  130
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  392
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  96
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  276
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  109
+# of variables in expresion:  80
+Accurancy of prediction 0%
+length of expression:  320
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  153
+# of variables in expresion:  96
+Accurancy of prediction 0%
+length of expression:  387
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  148
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  105
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  276
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  124
+# of variables in expresion:  67
+Accurancy of prediction 0%
+length of expression:  271
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  158
+# of variables in expresion:  48
+Accurancy of prediction 0%
+length of expression:  194
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  141
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  389
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  69
+# of variables in expresion:  37
+Accurancy of prediction 0%
+length of expression:  148
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  110
+# of variables in expresion:  75
+Accurancy of prediction 0%
+length of expression:  300
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  111
+# of variables in expresion:  73
+Accurancy of prediction 0%
+length of expression:  295
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  105
+# of variables in expresion:  77
+Accurancy of prediction 0%
+length of expression:  308
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  97
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  273
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  173
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  399
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  155
+# of variables in expresion:  100
+Accurancy of prediction 0%
+length of expression:  401
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  97
+# of variables in expresion:  44
+Accurancy of prediction 0%
+length of expression:  179
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  123
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  325
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  44
+# of variables in expresion:  45
+Accurancy of prediction  1.64 %
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  8
+# of variables in expresion:  45
+Accurancy of prediction  80.33 %
+length of expression:  183
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  118
+# of variables in expresion:  69
+Accurancy of prediction 0%
+length of expression:  277
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  46
+Accurancy of prediction  97.84 %
+length of expression:  185
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  156
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  392
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  0
+# of variables in expresion:  81
+Accurancy of prediction  98.77 %
+length of expression:  325
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  113
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  185
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  106
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  326
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  127
+# of variables in expresion:  78
+Accurancy of prediction 0%
+length of expression:  315
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  132
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  119
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  325
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  109
+# of variables in expresion:  48
+Accurancy of prediction 0%
+length of expression:  192
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  140
+# of variables in expresion:  95
+Accurancy of prediction 0%
+length of expression:  382
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  159
+# of variables in expresion:  44
+Accurancy of prediction 0%
+length of expression:  179
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  147
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  390
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  58
+# of variables in expresion:  49
+Accurancy of prediction 0%
+length of expression:  196
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  107
+# of variables in expresion:  81
+Accurancy of prediction 0%
+length of expression:  325
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  119
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  73
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  188
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  108
+# of variables in expresion:  96
+Accurancy of prediction 0%
+length of expression:  386
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  60
+# of variables in expresion:  45
+Accurancy of prediction 0%
+length of expression:  182
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  105
+# of variables in expresion:  73
+Accurancy of prediction 0%
+length of expression:  295
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  104
+# of variables in expresion:  49
+Accurancy of prediction 0%
+length of expression:  196
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  145
+# of variables in expresion:  95
+Accurancy of prediction 0%
+length of expression:  381
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  123
+# of variables in expresion:  46
+Accurancy of prediction 0%
+length of expression:  186
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  163
+# of variables in expresion:  98
+Accurancy of prediction 0%
+length of expression:  394
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  150
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  389
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  157
+# of variables in expresion:  95
+Accurancy of prediction 0%
+length of expression:  381
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  135
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  397
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  94
+# of variables in expresion:  68
+Accurancy of prediction 0%
+length of expression:  273
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  5
+# of variables in expresion:  81
+Accurancy of prediction  92.64 %
+length of expression:  326
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  177
+# of variables in expresion:  82
+Accurancy of prediction 0%
+length of expression:  328
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  60
+# of variables in expresion:  52
+Accurancy of prediction 0%
+length of expression:  209
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  104
+# of variables in expresion:  78
+Accurancy of prediction 0%
+length of expression:  314
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  18
+# of variables in expresion:  83
+Accurancy of prediction  77.18 %
+length of expression:  333
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  133
+# of variables in expresion:  83
+Accurancy of prediction 0%
+length of expression:  332
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  95
+# of variables in expresion:  99
+Accurancy of prediction  3.27 %
+length of expression:  397
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  68
+# of variables in expresion:  53
+Accurancy of prediction 0%
+length of expression:  213
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  150
+# of variables in expresion:  99
+Accurancy of prediction 0%
+length of expression:  398
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  156
+# of variables in expresion:  97
+Accurancy of prediction 0%
+length of expression:  391
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  63
+# of variables in expresion:  47
+Accurancy of prediction 0%
+length of expression:  189
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of miss insertions variables:  136
+# of variables in expresion:  95
+Accurancy of prediction 0%
+length of expression:  381
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# of tests= 199
+Average accurancy: 9.158448456073284
